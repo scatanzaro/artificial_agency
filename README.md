@@ -1,5 +1,5 @@
 # artificial_agency
-Forum for machine intelligence stakeholders to discuss organizational best practices
+* * Forum for machine intelligence stakeholders to discuss organizational best practices
 
 I occupy two worlds. One world is inhabited by canny investors, visionary founders, and determined reporters who convince us that machine intelligence will change the way we do business and interact with both peers and machines. The other world is occupied by more cynical executives and jaded data scientists, who have tried to leverage machine intelligence capabilities, but are yet to see their organization metamorphosize into some futuristic money-making apparatus.
 
