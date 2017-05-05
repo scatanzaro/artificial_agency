@@ -13,7 +13,9 @@ AI adoption does not fail due to technological shortcomings. AI adoption fails w
 
 For this reason, I’m creating a forum for stakeholders to share best practices. Hard things are really hard - and while I wish I could just prescribe the best way to set up your AI team and the most effective KPIs/OKRs/choose your acronym, I can only describe what worked well for me. My hope is that by sharing our experiences on establishing successful data science/AI team and practices, we can move the needle.
 
-The first document is an AI primer that I prepared for our portfolio companies. I intend this to be a living document, that my colleagues, peers, and I can update as we ourselves learn. I also urge others to share their own guidelines.
+My ultimate aspiration is that companies transform every employee into a data scientist. Much like they once adopted "engineering cultures." As such, I also encourage community members to include links to training and other resources that will help their coworkers learn about and utilize data science and ML. 
+
+The first document that I'm posting is an AI primer that I prepared for our portfolio companies. I intend this to be a living document, that my colleagues, peers, and I can update as we ourselves learn. I also urge others to share their own guidelines.
 
 We’re creating artificial agents that learn from each other, let’s take a page from their book...
  
