@@ -41,7 +41,7 @@ _Agile data science teams can more flexibly respond to unpredictable challenges.
 -  “[**What Does It Take to Lead Data Scientists**](https://medium.com/@dtunkelang/what-does-it-take-to-lead-data-scientists-958c8a766fc8)” - Daniel Tunkelang (9-20-2016): 
 _Data science leaders should have practical experience, a rigorous approach to hiring, and strong leadership skills. They should understand their organization’s mechanics and processes and ascertain ways to deliver value._ 
 - “[**Building a Team from the Inside Out: Alok Gupta on the Evolution of Data science at Airbnb**](http://blog.kaggle.com/2016/09/06/building-a-team-from-the-inside-out-alok-gupta-on-the-evolution-of-data-science-at-airbnb/)” (9-16-2016):  
-Data science managers should ensure that their reports have the resources required to grow and support organization-wide data-drive decision making. Knowledge sharing and management tools make data science teams more productive and impactful. 
+_Data science managers should ensure that their reports have the resources required to grow and support organization-wide data-drive decision making. Knowledge sharing and management tools make data science teams more productive and impactful._ 
 - "[**When Agile Meets Machine Learning**](https://medium.com/towards-data-science/when-agile-meets-machine-learning-2af111bddeec)" (6-19-2017):
 
 
