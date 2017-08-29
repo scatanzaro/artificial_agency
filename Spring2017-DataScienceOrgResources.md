@@ -24,6 +24,8 @@ _Data scientists must learn hacking skills to acquire and clean data, mathematic
  
  
 ## Hiring data scientists:
+- “[**Hiring a Data Scientist**](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)” - Mikhail Popov (2-2-2017)
+_Traditional interview practices are insufficient to evaluate how competently a data scientist can prepare, analyze, and present data and may impede diversity hiring. The Wikimedia Foundation carefully examined their job postings to ensure that the language did not preclude or discourage potentially qualified women and minorities. They also used take-home tasks and pre-defined interview questions to more objectively evaluate technical skills, critical thinking, and ideological alignment. _
 - “[**Beginning with Ourselves**](https://medium.com/airbnb-engineering/beginning-with-ourselves-48c5ed46a703)” - Riley Newman, Elena Grewal (2-18-2017)
 _Diverse data teams are more creative because they leverage heterogenous approaches (e.g. in working with and interpreting data). Diverse data team are also more effective in communicating results and obtaining buy-in from other stakeholders. Companies can apply a data scientific process to improve diversity hiring practices. _
 - “**[Data Science at Early Stage Companies: An Intoxicating Tweet Storm](https://twitter.com/i/moments/833025919711207424)**” - Josh Wills (2-18-2017):  
